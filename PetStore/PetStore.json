@@ -5,7 +5,7 @@
 		"title": "Pet API",
 		"contact": {}
 	},
-	"host": "http://localhost:8080",
+	"host": "www.example.com",
 	"basePath": "/",
 	"securityDefinitions": {},
 	"schemes": [
